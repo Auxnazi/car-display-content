@@ -1,9 +1,3 @@
 {
-  "animations": [
-    {
-      "name": "Test Animation",
-      "folder": "test",
-      "group": 0
-    }
-  ]
+  "animations": []
 }
