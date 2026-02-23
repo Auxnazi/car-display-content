@@ -1,8 +1,8 @@
 {
-  "gifs": [
+  "animations": [
     {
-      "name": "Test GIF",
-      "file": "test.gif",
+      "name": "Test Animation",
+      "folder": "test",
       "group": 0
     }
   ]
